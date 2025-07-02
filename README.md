@@ -19,20 +19,25 @@ It is a simplified version of a Unix shell written in C, built to understand how
 
 ## 🚀 Usage
 
+To compile and run the shell:
+
 ```bash
 make
 ./minishell
+```
 
-Once launched, use it like a regular shell:
+Once launched, you can use it like a regular shell.
+Example:
 ```bash
 minishell$ echo "Hello World" | grep Hello > out.txt
+```
 
 👥 Collaborators
 Developed by two students from 42Madrid:
 
-🧑‍💻 Manuel Gálvez
+Manuel Gálvez
 
-🧑‍💻 Mario Caro
+Mario Caro
 
 💡 Special thanks to @mariocaro13 for the great collaboration!
 
