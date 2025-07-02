@@ -29,15 +29,15 @@ make
 Once launched, you can use it like a regular shell.
 Example:
 ```bash
-minishell$ echo "Hello World" | grep Hello > out.txt
+M&Mshell$ echo "Hello World" | grep Hello > out.txt
 ```
 
 👥 Collaborators
 Developed by two students from 42Madrid:
 
-Manuel Gálvez
+[Mario Caro](https://github.com/mariocaro13)
 
-Mario Caro
+[Manuel Gálvez](https://github.com/manuelgalvez192)
 
 💡 Special thanks to @mariocaro13 for the great collaboration!
 
