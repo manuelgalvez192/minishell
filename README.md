@@ -35,9 +35,9 @@ M&Mshell$ echo "Hello World" | grep Hello > out.txt
 👥 Collaborators
 Developed by two students from 42Madrid:
 
-[Mario Caro](https://github.com/mariocaro13)
+- [Mario Caro](https://github.com/mariocaro13)
 
-[Manuel Gálvez](https://github.com/manuelgalvez192)
+- [Manuel Gálvez](https://github.com/manuelgalvez192)
 
 💡 Special thanks to @mariocaro13 for the great collaboration!
 
