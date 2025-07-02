@@ -32,14 +32,14 @@ Example:
 M&Mshell$ echo "Hello World" | grep Hello > out.txt
 ```
 
-👥 Collaborators
+## 👥 Collaborators
 Developed by two students from 42Madrid:
 
 - [Mario Caro](https://github.com/mariocaro13)
 
 - [Manuel Gálvez](https://github.com/manuelgalvez192)
 
-💡 Special thanks to @mariocaro13 for the great collaboration!
+Thanks to @mariocaro13 for the great collaboration!
 
-📄 License
+## 📄 License
 This project is for educational purposes only, developed as part of the 42 school curriculum.
